@@ -31,7 +31,7 @@ describe('These tests check if users can create a new gallery', () => {
     })
 
     after(() => {
-        // cy.clearLocalStorage()
+        cy.clearLocalStorage()
     })
 
 })

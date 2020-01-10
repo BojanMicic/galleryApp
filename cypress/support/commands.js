@@ -15,8 +15,3 @@ Cypress.Commands.add('apiLogin', (usr) => {
 
       })
 })
-
-Cypress.Commands.add('randomSixDigitNumber', () => {
-    let num = Math.floor(Math.random() * 900000)
-    return num
-})
