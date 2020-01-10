@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://gallery-app.vivifyideas.com/",
+    "integrationFolder": "cypress/integration/tests"
+
+}

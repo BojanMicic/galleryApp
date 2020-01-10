@@ -1,0 +1,14 @@
+{
+  "name": "bojancypress",
+  "version": "1.0.0",
+  "description": "vivifyideasTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bojan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+
+    "NEWGAL": {
+        "TITLE": "#title",
+        "DESC": "#description",
+        "IMGURL": "[type=url]",
+        "SUBMITBTN": "[type=submit]",
+        "ALERTBOX": ".alert-danger"
+    },
+
+    "FIND": {
+        "SEARCHINPUT": ".form-control",
+        "FILTERBTN": ".input-button"
+    }
+}
